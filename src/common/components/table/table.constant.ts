@@ -1,0 +1,1 @@
+export const TABLE_DEFAULT_ROW_NUMBER = 20;
