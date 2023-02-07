@@ -53,3 +53,9 @@ https://www.coingecko.com/en/api/documentation
 ## توضیحات نهایی
 
 در این پروژه سعی شده تمامی موارد بسیار ساده و بدون نصب پکیج های اضافی انجام شود. پروژه بصورت Responsive طراحی شده و با تغییر اندازه صفحه می توانید موارد پیاده سازی شده را مشاهده نمایید. قطعا این پروزه ماننده هر پروژه دیگری جای بهبود دارد و این تازه شروع کار است!
+
+
+# Screenshots
+
+![alt text](https://s2.uupload.ir/files/1_0vex.png)
+![alt text](https://s2.uupload.ir/files/2_u67m.png)
